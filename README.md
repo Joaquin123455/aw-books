@@ -33,7 +33,7 @@ Awesome Books
 ### Tech Stack <a name="tech-stack"></a>
 - HTML
 - CSS
-- JAVASCRIPT
+- JAVASCRIPT (Vanila)
 
 </a>
 
@@ -88,9 +88,9 @@ Clone this repository to your desired folder:
 
 👤 **Jose Luis Barbesi**
 
-- GitHub: [CarlosZ96](https://github.com/CarlosZ96)
-- Twitter: [@ElZambrano2](https://twitter.com/ElZambrano2)
-- LinkedIn: [Carlos Zambrano](https://www.linkedin.com/in/carlos-zambrano-695ccb260/)
+- GitHub: [jlberbesi](https://github.com/jlberbesi)
+- Twitter: [@imberbesi](https://twitter.com/imberbesi)
+- LinkedIn: [Carlos Zambrano](https://www.linkedin.com/in/jlberbesi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
